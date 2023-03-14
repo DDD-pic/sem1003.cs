@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\SEMI1003\bin\Debug\net6.0\Новая папка.exe
+C:\Users\Дом\Desktop\SEMI1003\bin\Debug\net6.0\Новая папка.deps.json
+C:\Users\Дом\Desktop\SEMI1003\bin\Debug\net6.0\Новая папка.runtimeconfig.json
+C:\Users\Дом\Desktop\SEMI1003\bin\Debug\net6.0\Новая папка.dll
+C:\Users\Дом\Desktop\SEMI1003\bin\Debug\net6.0\Новая папка.pdb
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\Новая папка.AssemblyInfo.cs
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\Новая папка.dll
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\refint\Новая папка.dll
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\Новая папка.pdb
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\Новая папка.genruntimeconfig.cache
+C:\Users\Дом\Desktop\SEMI1003\obj\Debug\net6.0\ref\Новая папка.dll
