@@ -9,8 +9,7 @@ N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 */
 Console.Write("Введите число N: ");
 int n = Convert.ToInt32(Console.ReadLine());
-//Console.Write("Введите число M: ");
-//int m = Convert.ToInt32(Console.ReadLine());
+
 
 void PrintNumbers(int n)
 {
@@ -65,8 +64,8 @@ int Akk(int n, int m)
         return Akk(n - 1, Akk(n, m - 1));
 }
  
-Console.WriteLine(Akk(2, 3)); // 4
-Console.WriteLine(Akk(3, 2)); // 1
+Console.WriteLine(Akk(2, 3)); 
+Console.WriteLine(Akk(3, 2)); 
 */
  
 
